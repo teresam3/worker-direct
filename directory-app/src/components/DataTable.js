@@ -11,7 +11,7 @@ function DataTable({ headings, users, handleSort }) {
       >
         <thead>
           <tr>
-            {headings.map(({ name, width }) => {
+            {headings.map(({name, width}) => {
               return (
                 <th
                   className="col"
