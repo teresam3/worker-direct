@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/DataBody.css";
 
-function DataBody({ users }) {
+function DataBody({users}) {
   function formatDate(date) {
     const dateArray = date.split("-");
     const year = dateArray[0];
