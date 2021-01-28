@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/worker-direct/static/css/main.81c25314.chunk.css",
+    "main.js": "/worker-direct/static/js/main.9149089f.chunk.js",
+    "main.js.map": "/worker-direct/static/js/main.9149089f.chunk.js.map",
+    "runtime~main.js": "/worker-direct/static/js/runtime~main.7e513094.js",
+    "runtime~main.js.map": "/worker-direct/static/js/runtime~main.7e513094.js.map",
+    "static/css/2.437d98bc.chunk.css": "/worker-direct/static/css/2.437d98bc.chunk.css",
+    "static/js/2.0a6ff45d.chunk.js": "/worker-direct/static/js/2.0a6ff45d.chunk.js",
+    "static/js/2.0a6ff45d.chunk.js.map": "/worker-direct/static/js/2.0a6ff45d.chunk.js.map",
+    "index.html": "/worker-direct/index.html",
+    "precache-manifest.b180880de8cc3ae100464f7510630825.js": "/worker-direct/precache-manifest.b180880de8cc3ae100464f7510630825.js",
+    "service-worker.js": "/worker-direct/service-worker.js",
+    "static/css/2.437d98bc.chunk.css.map": "/worker-direct/static/css/2.437d98bc.chunk.css.map",
+    "static/css/main.81c25314.chunk.css.map": "/worker-direct/static/css/main.81c25314.chunk.css.map"
+  }
+}
