@@ -1,7 +1,7 @@
 # worker-direct
 Employee directory for an organization using react
 
-![homepage](https://github.com/teresam3/worker-direct/blob/main/public/images/worker-direct.pngs?raw=true))
+![homepage](https://github.com/teresam3/worker-direct/blob/main/public/images/worker-direct.png?raw=true))
 
 ## Overview
 
